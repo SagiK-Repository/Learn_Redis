@@ -15,4 +15,4 @@
 
 
 # 실습
-# Redis 설치 및 활용 (https://github.com/SagiK-Repository/Learn_Redis/issues/1)
+### Redis 설치 및 활용 (https://github.com/SagiK-Repository/Learn_Redis/issues/1)
